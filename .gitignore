@@ -1,0 +1,5 @@
+/.vscode/
+/__pycache__/
+/tensorboard_logs/
+*.csv
+CA_model.onnx
